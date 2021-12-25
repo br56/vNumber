@@ -1,1 +1,1 @@
-# vNumber
+# Brute force
